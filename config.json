@@ -5,7 +5,7 @@
     "botName": "Lily-Mdོ ",
     "footer": "Bungabangkung",
     "sessionName": "session",
-    "pathimg": "https://telegra.ph/Bote-10-27",
+    "pathimg": "./media/Haruka.jpg",
     "BotKey": "Gsyt6jRJ",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
