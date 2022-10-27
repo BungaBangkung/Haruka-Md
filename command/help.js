@@ -13,7 +13,7 @@ function toCommas(x) {
 }
 
 exports.allMenu = (role, ucapanWaktu, pushname, mundur, upload, download, ownerName, botName, jam, tanggal, runtime, isCreator, isPremium, sender, limitCount, limit, gcount, glimit, balance, prefix) => {
-    return`${ucapanWaktu} ${pushname !== undefined ? pushname : 'Kak'}
+    return`${ucapanWaktu} ${pushname !== undefined ? pushname : 'Saya adalah Bot wa yg di program oleh ${ownerName } Menggunakan Html😱🗿'}
 
 Hitung Mundur Tahun Baru
 ${mundur}
